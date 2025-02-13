@@ -1,0 +1,32 @@
+2025-02-13 21:37:44,932 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 21:37:44,932 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 21:37:45,866 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 21:43:35,551 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 21:43:35,551 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 21:43:37,081 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 21:49:43,536 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 21:49:43,537 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 21:49:45,096 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 21:56:01,678 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 21:56:01,679 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 21:56:03,250 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 22:03:40,325 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 22:03:40,325 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 22:03:41,375 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 22:11:03,851 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 22:11:03,852 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 22:11:05,306 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 22:12:17,285 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 22:12:17,286 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 22:12:18,525 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 22:20:47,866 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 22:20:47,866 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 22:20:49,083 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 22:21:02,294 - ERROR - Error in listen(): listening timed out while waiting for phrase to start
+2025-02-13 22:22:05,415 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 22:22:05,415 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 22:22:06,775 - WARNING - face_model.xml not found. Face authentication will not work.
+2025-02-13 22:22:20,170 - ERROR - Error in listen(): listening timed out while waiting for phrase to start
+2025-02-13 22:34:54,707 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Global\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-02-13 22:34:54,708 - INFO - Using writeable comtypes cache directory: 'C:\Users\Global\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-02-13 22:34:56,114 - WARNING - face_model.xml not found. Face authentication may not work until you train a model.
